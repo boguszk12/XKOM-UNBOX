@@ -1,0 +1,50 @@
+{
+    "AccountId": "maers@maers.pl",
+    "Identity": {
+        "FirstName": "Maers",
+        "LastName": "Maers",
+        "Email": "maers@maers.pl",
+        "PhoneNumber": null,
+        "TrackingId": "X",
+        "LastPasswordChange": "2023-11-27T13:07:00Z"
+    },
+    "Baskets": [],
+    "ShipmentProfiles": [],
+    "PaymentProfiles": [],
+    "InvoiceProfiles": [],
+    "Consents": [{
+            "Code": "regulations",
+            "IsRequested": false,
+            "IsSelected": true,
+            "ViewStatus": "NotApplicable"
+        },
+        {
+            "Code": "email_contact",
+            "IsRequested": false,
+            "IsSelected": false,
+            "ViewStatus": "NotApplicable"
+        },
+        {
+            "Code": "sms",
+            "IsRequested": false,
+            "IsSelected": false,
+            "ViewStatus": "NotApplicable"
+        },
+        {
+            "Code": "phone_contact",
+            "IsRequested": false,
+            "IsSelected": false,
+            "ViewStatus": "NotApplicable"
+        },
+        {
+            "Code": "offer_adaptin",
+            "IsRequested": false,
+            "IsSelected": false,
+            "ViewStatus": "NotApplicable"
+        }
+    ],
+    "SalesMasterAccountInfo": null,
+    "B2B": null,
+    "ProductAvailabilityRequests": [],
+    "CustomerBasketSettings": null
+}

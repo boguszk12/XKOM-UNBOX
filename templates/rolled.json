@@ -1,0 +1,46 @@
+{
+    "BoxItemRolledResourceId": "3f4605a0-be73-4020-8ba1-055dabda6641",
+    "Item": {
+        "Id": "1111273",
+        "Name": "Motorola moto g23 8/128GB Steel Blue 90Hz",
+        "Photo": {
+            "Url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-large,,2023/1/pr_2023_1_24_13_21_22_993_03.jpg",
+            "ThumbnailUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-small,,2023/1/pr_2023_1_24_13_21_22_993_03.jpg",
+            "UrlTemplate": "https://cdn.x-kom.pl/i/setup/images/prod/big/{SIZE},,2023/1/pr_2023_1_24_13_21_22_993_03.jpg"
+        },
+        "CatalogPrice": 599.0,
+        "CategoryNameSingular": "Smartfon / Telefon",
+        "Category": {
+            "Id": "1590",
+            "NameSingular": "Smartfon / Telefon",
+            "NamePlural": "Smartfony i telefony",
+            "Photo": {
+                "Url": "cat_04.09.2023_12_22_5_50.png",
+                "ThumbnailUrl": "cat_04.09.2023_12_22_5_50.png",
+                "UrlTemplate": null
+            },
+            "ParentCategory": null,
+            "ParentGroup": {
+                "Id": "4",
+                "Name": "Smartfony i smartwatche"
+            }
+        },
+        "ProducerName": "Motorola"
+    },
+    "BoxRarity": {
+        "Id": "Standard",
+        "Name": "Standardowa zniżka"
+    },
+    "BoxPrice": 554.00,
+    "WebUrl": "p/1111273-smartfon-telefon-motorola-moto-g23-8-128gb-steel-blue-90hz.html",
+    "AvailableToRollDate": "2023-11-28T14:23:54Z",
+    "PromotionGain": {
+        "Value": 45.00,
+        "GainValue": "45",
+        "GainType": "Currency"
+    },
+    "ProductCommentsStatistics": {
+        "TotalCount": 47,
+        "AverageRating": 5.72
+    }
+}

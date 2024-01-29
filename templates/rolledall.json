@@ -1,0 +1,123 @@
+[{
+        "BoxId": 1,
+        "Name": ".Box",
+        "Description": "Zniżki standardowe",
+        "GainText": "Oszczędź do 300 zł",
+        "ActiveRolledItem": {
+            "BoxItemRolledResourceId": "51cab5be-8300-46de-a54c-d79d13a793f9",
+            "Item": {
+                "Id": "620043",
+                "Name": "GoPro Media Mod",
+                "Photo": {
+                    "Url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-large,,2021/1/pr_2021_1_20_15_53_57_703_01.jpg",
+                    "ThumbnailUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-small,,2021/1/pr_2021_1_20_15_53_57_703_01.jpg",
+                    "UrlTemplate": "https://cdn.x-kom.pl/i/setup/images/prod/big/{SIZE},,2021/1/pr_2021_1_20_15_53_57_703_01.jpg"
+                },
+                "CatalogPrice": 419,
+                "CategoryNameSingular": "Element montażowy do kamery",
+                "Category": {
+                    "Id": "2400",
+                    "NameSingular": "Element montażowy do kamery",
+                    "NamePlural": "Elementy montażowe do kamer",
+                    "Photo": null,
+                    "ParentCategory": {
+                        "Id": "3026",
+                        "NameSingular": "Kamera sportowa / akcesorium",
+                        "NamePlural": "Kamery sportowe i akcesoria",
+                        "Photo": {
+                            "Url": "cat_2020-05-25_9_55_23_393.png",
+                            "ThumbnailUrl": "cat_2020-05-25_9_55_23_393.png",
+                            "UrlTemplate": null
+                        },
+                        "ParentCategory": null,
+                        "ParentGroup": {
+                            "Id": "64",
+                            "Name": "Smarthome i lifestyle"
+                        }
+                    },
+                    "ParentGroup": {
+                        "Id": "64",
+                        "Name": "Smarthome i lifestyle"
+                    }
+                },
+                "ProducerName": "GoPro"
+            },
+            "BoxRarity": {
+                "Id": "Standard",
+                "Name": "Standardowa zniżka"
+            },
+            "BoxPrice": 349,
+            "WebUrl": "p/620043-element-montazowy-do-kamery-gopro-media-mod-do-hero9-i-hero10-black.html",
+            "AvailableToRollDate": "2023-11-28T13:15:41Z",
+            "PromotionGain": {
+                "Value": 70,
+                "GainValue": "70",
+                "GainType": "Currency"
+            },
+            "SaleStatus": "Buyable",
+            "ProductCommentsStatistics": {
+                "TotalCount": 6,
+                "AverageRating": 5.5
+            }
+        },
+        "Requirements": []
+    },
+    {
+        "BoxId": 2,
+        "Name": "mega.Box",
+        "Description": "Zniżki standardowe i wyjątkowe",
+        "GainText": "Oszczędź do 500 zł",
+        "ActiveRolledItem": null,
+        "Requirements": [{
+                "BoxRequirementId": "login",
+                "Description": "Zaloguj się",
+                "ActionText": "Zaloguj się",
+                "IsMatched": true,
+                "IsRequested": false
+            },
+            {
+                "BoxRequirementId": "newsletter",
+                "Description": "Zapisz się na newsletter",
+                "ActionText": "Przejdź do zapisu na newsletter",
+                "IsMatched": false,
+                "IsRequested": false
+            }
+        ]
+    },
+    {
+        "BoxId": 3,
+        "Name": "giga.Box",
+        "Description": "Zniżki standardowe, wyjątkowe i legendarne",
+        "GainText": "Produkty nawet za 1 zł",
+        "ActiveRolledItem": null,
+        "Requirements": [{
+                "BoxRequirementId": "mobile_app",
+                "Description": "Wejdź do aplikacji",
+                "ActionText": "Sprawdź, jak pobrać aplikację",
+                "IsMatched": true,
+                "IsRequested": false
+            },
+            {
+                "BoxRequirementId": "login",
+                "Description": "Zaloguj się",
+                "ActionText": "Zaloguj się",
+                "IsMatched": true,
+                "IsRequested": false
+            },
+            {
+                "BoxRequirementId": "newsletter",
+                "Description": "Zapisz się na newsletter",
+                "ActionText": "Przejdź do zapisu na newsletter",
+                "IsMatched": false,
+                "IsRequested": false
+            },
+            {
+                "BoxRequirementId": "offer_adapted",
+                "Description": "Wyraź zgodę na dopasowaną ofertę",
+                "ActionText": "Przejdź do zgód",
+                "IsMatched": false,
+                "IsRequested": false
+            }
+        ]
+    }
+]

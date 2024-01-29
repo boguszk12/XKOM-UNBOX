@@ -1,0 +1,541 @@
+[{
+        "BoxItemId": 11736,
+        "Name": "Motorola razr 40 ultra 5G 8/256GB Viva Magenta 165Hz",
+        "Photo": {
+            "Url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-large,,2023/5/pr_2023_5_29_12_34_53_24_00.jpg",
+            "ThumbnailUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-small,,2023/5/pr_2023_5_29_12_34_53_24_00.jpg",
+            "UrlTemplate": "https://cdn.x-kom.pl/i/setup/images/prod/big/{SIZE},,2023/5/pr_2023_5_29_12_34_53_24_00.jpg"
+        },
+        "PromotionGain": {
+            "Value": 337,
+            "GainValue": "337",
+            "GainType": "Currency"
+        },
+        "BoxRarity": {
+            "Id": "Standard",
+            "Name": "Standardowa zniżka"
+        }
+    },
+    {
+        "BoxItemId": 9253,
+        "Name": "DJI Osmo Action 3 Adventure Combo",
+        "Photo": {
+            "Url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-large,,2022/9/pr_2022_9_13_9_46_11_271_00.jpg",
+            "ThumbnailUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-small,,2022/9/pr_2022_9_13_9_46_11_271_00.jpg",
+            "UrlTemplate": "https://cdn.x-kom.pl/i/setup/images/prod/big/{SIZE},,2022/9/pr_2022_9_13_9_46_11_271_00.jpg"
+        },
+        "PromotionGain": {
+            "Value": 100,
+            "GainValue": "100",
+            "GainType": "Currency"
+        },
+        "BoxRarity": {
+            "Id": "Standard",
+            "Name": "Standardowa zniżka"
+        }
+    },
+    {
+        "BoxItemId": 11706,
+        "Name": "Motorola edge 40 pro 5G 12/256GB Quartz Black 165Hz",
+        "Photo": {
+            "Url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-large,,2023/4/pr_2023_4_4_13_5_14_778_07.jpg",
+            "ThumbnailUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-small,,2023/4/pr_2023_4_4_13_5_14_778_07.jpg",
+            "UrlTemplate": "https://cdn.x-kom.pl/i/setup/images/prod/big/{SIZE},,2023/4/pr_2023_4_4_13_5_14_778_07.jpg"
+        },
+        "PromotionGain": {
+            "Value": 270,
+            "GainValue": "270",
+            "GainType": "Currency"
+        },
+        "BoxRarity": {
+            "Id": "Standard",
+            "Name": "Standardowa zniżka"
+        }
+    },
+    {
+        "BoxItemId": 11604,
+        "Name": "Samsung Galaxy S23 8/128GB Green",
+        "Photo": {
+            "Url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-large,,2023/3/pr_2023_3_15_9_30_51_283_00.jpg",
+            "ThumbnailUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-small,,2023/3/pr_2023_3_15_9_30_51_283_00.jpg",
+            "UrlTemplate": "https://cdn.x-kom.pl/i/setup/images/prod/big/{SIZE},,2023/3/pr_2023_3_15_9_30_51_283_00.jpg"
+        },
+        "PromotionGain": {
+            "Value": 279.92,
+            "GainValue": "279,92",
+            "GainType": "Currency"
+        },
+        "BoxRarity": {
+            "Id": "Standard",
+            "Name": "Standardowa zniżka"
+        }
+    },
+    {
+        "BoxItemId": 11112,
+        "Name": "Samsung Galaxy Tab A8 X205 LTE 4/64GB srebrny",
+        "Photo": {
+            "Url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-large,,2021/12/pr_2021_12_22_11_30_59_499_00.jpg",
+            "ThumbnailUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-small,,2021/12/pr_2021_12_22_11_30_59_499_00.jpg",
+            "UrlTemplate": "https://cdn.x-kom.pl/i/setup/images/prod/big/{SIZE},,2021/12/pr_2021_12_22_11_30_59_499_00.jpg"
+        },
+        "PromotionGain": {
+            "Value": 164.85,
+            "GainValue": "164,85",
+            "GainType": "Currency"
+        },
+        "BoxRarity": {
+            "Id": "Standard",
+            "Name": "Standardowa zniżka"
+        }
+    },
+    {
+        "BoxItemId": 3247,
+        "Name": "Thronmax Stream GO X1 1080P",
+        "Photo": {
+            "Url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-large,,2020/10/pr_2020_10_19_14_24_18_520_00.jpg",
+            "ThumbnailUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-small,,2020/10/pr_2020_10_19_14_24_18_520_00.jpg",
+            "UrlTemplate": "https://cdn.x-kom.pl/i/setup/images/prod/big/{SIZE},,2020/10/pr_2020_10_19_14_24_18_520_00.jpg"
+        },
+        "PromotionGain": {
+            "Value": 100,
+            "GainValue": "100",
+            "GainType": "Currency"
+        },
+        "BoxRarity": {
+            "Id": "Standard",
+            "Name": "Standardowa zniżka"
+        }
+    },
+    {
+        "BoxItemId": 8037,
+        "Name": "Silver Monkey Adapter USB 3.0 - RJ-45 1000 Mbps",
+        "Photo": {
+            "Url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-large,,2023/7/pr_2023_7_17_11_33_52_57_00.jpg",
+            "ThumbnailUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-small,,2023/7/pr_2023_7_17_11_33_52_57_00.jpg",
+            "UrlTemplate": "https://cdn.x-kom.pl/i/setup/images/prod/big/{SIZE},,2023/7/pr_2023_7_17_11_33_52_57_00.jpg"
+        },
+        "PromotionGain": {
+            "Value": 10,
+            "GainValue": "15",
+            "GainType": "Percentage"
+        },
+        "BoxRarity": {
+            "Id": "Standard",
+            "Name": "Standardowa zniżka"
+        }
+    },
+    {
+        "BoxItemId": 11587,
+        "Name": "XPG Starker Czarna",
+        "Photo": {
+            "Url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-large,,2020/11/pr_2020_11_26_14_55_17_797_00.jpg",
+            "ThumbnailUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-small,,2020/11/pr_2020_11_26_14_55_17_797_00.jpg",
+            "UrlTemplate": "https://cdn.x-kom.pl/i/setup/images/prod/big/{SIZE},,2020/11/pr_2020_11_26_14_55_17_797_00.jpg"
+        },
+        "PromotionGain": {
+            "Value": 19,
+            "GainValue": "19",
+            "GainType": "Currency"
+        },
+        "BoxRarity": {
+            "Id": "Standard",
+            "Name": "Standardowa zniżka"
+        }
+    },
+    {
+        "BoxItemId": 3016,
+        "Name": "Samsung Leather Cover do Galaxy Fold 4 szary",
+        "Photo": {
+            "Url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-large,,2022/8/pr_2022_8_8_14_19_53_170_00.jpg",
+            "ThumbnailUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-small,,2022/8/pr_2022_8_8_14_19_53_170_00.jpg",
+            "UrlTemplate": "https://cdn.x-kom.pl/i/setup/images/prod/big/{SIZE},,2022/8/pr_2022_8_8_14_19_53_170_00.jpg"
+        },
+        "PromotionGain": {
+            "Value": 74.75,
+            "GainValue": "74,75",
+            "GainType": "Currency"
+        },
+        "BoxRarity": {
+            "Id": "Standard",
+            "Name": "Standardowa zniżka"
+        }
+    },
+    {
+        "BoxItemId": 11625,
+        "Name": "be quiet! DARK POWER 13 850W 80 Plus Titanium ATX 3.0",
+        "Photo": {
+            "Url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-large,,2023/1/pr_2023_1_17_10_35_5_607_00.jpg",
+            "ThumbnailUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-small,,2023/1/pr_2023_1_17_10_35_5_607_00.jpg",
+            "UrlTemplate": "https://cdn.x-kom.pl/i/setup/images/prod/big/{SIZE},,2023/1/pr_2023_1_17_10_35_5_607_00.jpg"
+        },
+        "PromotionGain": {
+            "Value": 100,
+            "GainValue": "100",
+            "GainType": "Currency"
+        },
+        "BoxRarity": {
+            "Id": "Standard",
+            "Name": "Standardowa zniżka"
+        }
+    },
+    {
+        "BoxItemId": 8128,
+        "Name": "Silver Monkey UT-600",
+        "Photo": {
+            "Url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-large,,2022/10/pr_2022_10_27_8_49_43_871_00.jpg",
+            "ThumbnailUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-small,,2022/10/pr_2022_10_27_8_49_43_871_00.jpg",
+            "UrlTemplate": "https://cdn.x-kom.pl/i/setup/images/prod/big/{SIZE},,2022/10/pr_2022_10_27_8_49_43_871_00.jpg"
+        },
+        "PromotionGain": {
+            "Value": 10,
+            "GainValue": "10",
+            "GainType": "Currency"
+        },
+        "BoxRarity": {
+            "Id": "Standard",
+            "Name": "Standardowa zniżka"
+        }
+    },
+    {
+        "BoxItemId": 11617,
+        "Name": "Samsung Galaxy S21 FE 5G Fan Edition 8/256GB Violet",
+        "Photo": {
+            "Url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-large,,2021/12/pr_2021_12_23_8_8_15_960_01.jpg",
+            "ThumbnailUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-small,,2021/12/pr_2021_12_23_8_8_15_960_01.jpg",
+            "UrlTemplate": "https://cdn.x-kom.pl/i/setup/images/prod/big/{SIZE},,2021/12/pr_2021_12_23_8_8_15_960_01.jpg"
+        },
+        "PromotionGain": {
+            "Value": 230,
+            "GainValue": "230",
+            "GainType": "Currency"
+        },
+        "BoxRarity": {
+            "Id": "Standard",
+            "Name": "Standardowa zniżka"
+        }
+    },
+    {
+        "BoxItemId": 10048,
+        "Name": "Switch Metroid Dread",
+        "Photo": {
+            "Url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-large,,2021/7/pr_2021_7_14_17_51_2_476_00.jpg",
+            "ThumbnailUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-small,,2021/7/pr_2021_7_14_17_51_2_476_00.jpg",
+            "UrlTemplate": "https://cdn.x-kom.pl/i/setup/images/prod/big/{SIZE},,2021/7/pr_2021_7_14_17_51_2_476_00.jpg"
+        },
+        "PromotionGain": {
+            "Value": 30,
+            "GainValue": "30",
+            "GainType": "Currency"
+        },
+        "BoxRarity": {
+            "Id": "Standard",
+            "Name": "Standardowa zniżka"
+        }
+    },
+    {
+        "BoxItemId": 9960,
+        "Name": "Xbox Gigantosaurus (Gigantozaur): Dino Kart",
+        "Photo": {
+            "Url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-large,,2022/10/pr_2022_10_9_9_31_42_653_00.jpg",
+            "ThumbnailUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-small,,2022/10/pr_2022_10_9_9_31_42_653_00.jpg",
+            "UrlTemplate": "https://cdn.x-kom.pl/i/setup/images/prod/big/{SIZE},,2022/10/pr_2022_10_9_9_31_42_653_00.jpg"
+        },
+        "PromotionGain": {
+            "Value": 20,
+            "GainValue": "20",
+            "GainType": "Currency"
+        },
+        "BoxRarity": {
+            "Id": "Standard",
+            "Name": "Standardowa zniżka"
+        }
+    },
+    {
+        "BoxItemId": 7764,
+        "Name": "Hyper NET 6-in-2 MacBook Pro Hub gray",
+        "Photo": {
+            "Url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-large,,2022/4/pr_2022_4_5_9_53_23_949_00.jpg",
+            "ThumbnailUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-small,,2022/4/pr_2022_4_5_9_53_23_949_00.jpg",
+            "UrlTemplate": "https://cdn.x-kom.pl/i/setup/images/prod/big/{SIZE},,2022/4/pr_2022_4_5_9_53_23_949_00.jpg"
+        },
+        "PromotionGain": {
+            "Value": 14,
+            "GainValue": "14",
+            "GainType": "Currency"
+        },
+        "BoxRarity": {
+            "Id": "Standard",
+            "Name": "Standardowa zniżka"
+        }
+    },
+    {
+        "BoxItemId": 7965,
+        "Name": "Silver Monkey Podkładka pod mysz M różowa",
+        "Photo": {
+            "Url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-large,,2023/1/pr_2023_1_20_9_36_46_181_00.jpg",
+            "ThumbnailUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-small,,2023/1/pr_2023_1_20_9_36_46_181_00.jpg",
+            "UrlTemplate": "https://cdn.x-kom.pl/i/setup/images/prod/big/{SIZE},,2023/1/pr_2023_1_20_9_36_46_181_00.jpg"
+        },
+        "PromotionGain": {
+            "Value": 10,
+            "GainValue": "33",
+            "GainType": "Percentage"
+        },
+        "BoxRarity": {
+            "Id": "Standard",
+            "Name": "Standardowa zniżka"
+        }
+    },
+    {
+        "BoxItemId": 7239,
+        "Name": "Philips Hue Wall switch module x2",
+        "Photo": {
+            "Url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-large,,2023/4/pr_2023_4_25_8_50_23_197_00.jpg",
+            "ThumbnailUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-small,,2023/4/pr_2023_4_25_8_50_23_197_00.jpg",
+            "UrlTemplate": "https://cdn.x-kom.pl/i/setup/images/prod/big/{SIZE},,2023/4/pr_2023_4_25_8_50_23_197_00.jpg"
+        },
+        "PromotionGain": {
+            "Value": 53,
+            "GainValue": "53",
+            "GainType": "Currency"
+        },
+        "BoxRarity": {
+            "Id": "Standard",
+            "Name": "Standardowa zniżka"
+        }
+    },
+    {
+        "BoxItemId": 8360,
+        "Name": "SanDisk 32GB Extreme zapis 85MB/s odczyt 120MB/s ",
+        "Photo": {
+            "Url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-large,,pr_2017_3_15_12_36_55_820.jpg",
+            "ThumbnailUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-small,,pr_2017_3_15_12_36_55_820.jpg",
+            "UrlTemplate": "https://cdn.x-kom.pl/i/setup/images/prod/big/{SIZE},,pr_2017_3_15_12_36_55_820.jpg"
+        },
+        "PromotionGain": {
+            "Value": 20,
+            "GainValue": "20",
+            "GainType": "Currency"
+        },
+        "BoxRarity": {
+            "Id": "Standard",
+            "Name": "Standardowa zniżka"
+        }
+    },
+    {
+        "BoxItemId": 7993,
+        "Name": "Silver Monkey Przedłużacz USB 3m (3.0)",
+        "Photo": {
+            "Url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-large,,2023/7/pr_2023_7_12_15_22_2_647_00.jpg",
+            "ThumbnailUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-small,,2023/7/pr_2023_7_12_15_22_2_647_00.jpg",
+            "UrlTemplate": "https://cdn.x-kom.pl/i/setup/images/prod/big/{SIZE},,2023/7/pr_2023_7_12_15_22_2_647_00.jpg"
+        },
+        "PromotionGain": {
+            "Value": 10,
+            "GainValue": "28",
+            "GainType": "Percentage"
+        },
+        "BoxRarity": {
+            "Id": "Standard",
+            "Name": "Standardowa zniżka"
+        }
+    },
+    {
+        "BoxItemId": 11110,
+        "Name": "Samsung Galaxy Tab A8 X200 WiFi 4/128GB szary",
+        "Photo": {
+            "Url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-large,,2021/12/pr_2021_12_22_11_3_48_658_00.jpg",
+            "ThumbnailUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-small,,2021/12/pr_2021_12_22_11_3_48_658_00.jpg",
+            "UrlTemplate": "https://cdn.x-kom.pl/i/setup/images/prod/big/{SIZE},,2021/12/pr_2021_12_22_11_3_48_658_00.jpg"
+        },
+        "PromotionGain": {
+            "Value": 164.85,
+            "GainValue": "164,85",
+            "GainType": "Currency"
+        },
+        "BoxRarity": {
+            "Id": "Standard",
+            "Name": "Standardowa zniżka"
+        }
+    },
+    {
+        "BoxItemId": 11341,
+        "Name": "Samsung Galaxy S23+ 8/256GB Black",
+        "Photo": {
+            "Url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-large,,2023/3/pr_2023_3_15_9_42_52_974_00.jpg",
+            "ThumbnailUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-small,,2023/3/pr_2023_3_15_9_42_52_974_00.jpg",
+            "UrlTemplate": "https://cdn.x-kom.pl/i/setup/images/prod/big/{SIZE},,2023/3/pr_2023_3_15_9_42_52_974_00.jpg"
+        },
+        "PromotionGain": {
+            "Value": 584.87,
+            "GainValue": "584,87",
+            "GainType": "Currency"
+        },
+        "BoxRarity": {
+            "Id": "Standard",
+            "Name": "Standardowa zniżka"
+        }
+    },
+    {
+        "BoxItemId": 7190,
+        "Name": "TP-Link Archer VR300 (1200Mb/s a/b/g/n/ac)",
+        "Photo": {
+            "Url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-large,,2019/4/pr_2019_4_3_9_0_51_451_00.jpg",
+            "ThumbnailUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-small,,2019/4/pr_2019_4_3_9_0_51_451_00.jpg",
+            "UrlTemplate": "https://cdn.x-kom.pl/i/setup/images/prod/big/{SIZE},,2019/4/pr_2019_4_3_9_0_51_451_00.jpg"
+        },
+        "PromotionGain": {
+            "Value": 20,
+            "GainValue": "20",
+            "GainType": "Currency"
+        },
+        "BoxRarity": {
+            "Id": "Standard",
+            "Name": "Standardowa zniżka"
+        }
+    },
+    {
+        "BoxItemId": 11065,
+        "Name": "Nokia 110 Dual SIM czarny 4G",
+        "Photo": {
+            "Url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-large,,2021/7/pr_2021_7_21_9_12_53_260_05.jpg",
+            "ThumbnailUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-small,,2021/7/pr_2021_7_21_9_12_53_260_05.jpg",
+            "UrlTemplate": "https://cdn.x-kom.pl/i/setup/images/prod/big/{SIZE},,2021/7/pr_2021_7_21_9_12_53_260_05.jpg"
+        },
+        "PromotionGain": {
+            "Value": 28.35,
+            "GainValue": "28,35",
+            "GainType": "Currency"
+        },
+        "BoxRarity": {
+            "Id": "Standard",
+            "Name": "Standardowa zniżka"
+        }
+    },
+    {
+        "BoxItemId": 11548,
+        "Name": "Genesis Thor 404 TKL Gateron Yellow PRO biała",
+        "Photo": {
+            "Url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-large,,2023/10/pr_2023_10_19_11_22_44_354_00.jpg",
+            "ThumbnailUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-small,,2023/10/pr_2023_10_19_11_22_44_354_00.jpg",
+            "UrlTemplate": "https://cdn.x-kom.pl/i/setup/images/prod/big/{SIZE},,2023/10/pr_2023_10_19_11_22_44_354_00.jpg"
+        },
+        "PromotionGain": {
+            "Value": 20,
+            "GainValue": "20",
+            "GainType": "Currency"
+        },
+        "BoxRarity": {
+            "Id": "Standard",
+            "Name": "Standardowa zniżka"
+        }
+    },
+    {
+        "BoxItemId": 8013,
+        "Name": "Silver Monkey EasySleeve etui na laptopa 15,6\" czarne",
+        "Photo": {
+            "Url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-large,,2021/5/pr_2021_5_31_13_0_27_50_00.jpg",
+            "ThumbnailUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-small,,2021/5/pr_2021_5_31_13_0_27_50_00.jpg",
+            "UrlTemplate": "https://cdn.x-kom.pl/i/setup/images/prod/big/{SIZE},,2021/5/pr_2021_5_31_13_0_27_50_00.jpg"
+        },
+        "PromotionGain": {
+            "Value": 10,
+            "GainValue": "20",
+            "GainType": "Percentage"
+        },
+        "BoxRarity": {
+            "Id": "Standard",
+            "Name": "Standardowa zniżka"
+        }
+    },
+    {
+        "BoxItemId": 7917,
+        "Name": "Silver Monkey Cable Organizer Bag S",
+        "Photo": {
+            "Url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-large,,2022/12/pr_2022_12_14_12_7_15_902_01.jpg",
+            "ThumbnailUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-small,,2022/12/pr_2022_12_14_12_7_15_902_01.jpg",
+            "UrlTemplate": "https://cdn.x-kom.pl/i/setup/images/prod/big/{SIZE},,2022/12/pr_2022_12_14_12_7_15_902_01.jpg"
+        },
+        "PromotionGain": {
+            "Value": 10,
+            "GainValue": "22",
+            "GainType": "Percentage"
+        },
+        "BoxRarity": {
+            "Id": "Standard",
+            "Name": "Standardowa zniżka"
+        }
+    },
+    {
+        "BoxItemId": 10635,
+        "Name": "Acer Predator X45BMIIPHUZX OLED",
+        "Photo": {
+            "Url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-large,,2023/9/pr_2023_9_20_12_21_5_163_00.jpg",
+            "ThumbnailUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-small,,2023/9/pr_2023_9_20_12_21_5_163_00.jpg",
+            "UrlTemplate": "https://cdn.x-kom.pl/i/setup/images/prod/big/{SIZE},,2023/9/pr_2023_9_20_12_21_5_163_00.jpg"
+        },
+        "PromotionGain": {
+            "Value": 500,
+            "GainValue": "500",
+            "GainType": "Currency"
+        },
+        "BoxRarity": {
+            "Id": "Standard",
+            "Name": "Standardowa zniżka"
+        }
+    },
+    {
+        "BoxItemId": 11546,
+        "Name": "Genesis Thor 404 TKL Kailh Brown RGB biała",
+        "Photo": {
+            "Url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-large,,2023/10/pr_2023_10_19_11_22_44_354_00.jpg",
+            "ThumbnailUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-small,,2023/10/pr_2023_10_19_11_22_44_354_00.jpg",
+            "UrlTemplate": "https://cdn.x-kom.pl/i/setup/images/prod/big/{SIZE},,2023/10/pr_2023_10_19_11_22_44_354_00.jpg"
+        },
+        "PromotionGain": {
+            "Value": 50,
+            "GainValue": "50",
+            "GainType": "Currency"
+        },
+        "BoxRarity": {
+            "Id": "Standard",
+            "Name": "Standardowa zniżka"
+        }
+    },
+    {
+        "BoxItemId": 11152,
+        "Name": "Samsung Galaxy Watch 6 Classic 43mm srebrny LTE",
+        "Photo": {
+            "Url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-large,,2023/7/pr_2023_7_20_14_25_41_973_01.jpg",
+            "ThumbnailUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-small,,2023/7/pr_2023_7_20_14_25_41_973_01.jpg",
+            "UrlTemplate": "https://cdn.x-kom.pl/i/setup/images/prod/big/{SIZE},,2023/7/pr_2023_7_20_14_25_41_973_01.jpg"
+        },
+        "PromotionGain": {
+            "Value": 214.9,
+            "GainValue": "214,90",
+            "GainType": "Currency"
+        },
+        "BoxRarity": {
+            "Id": "Standard",
+            "Name": "Standardowa zniżka"
+        }
+    },
+    {
+        "BoxItemId": 11090,
+        "Name": "Samsung Galaxy Watch 4 Aluminium 40mm Pink Gold",
+        "Photo": {
+            "Url": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-large,,2021/8/pr_2021_8_6_10_21_5_633_00.jpg",
+            "ThumbnailUrl": "https://cdn.x-kom.pl/i/setup/images/prod/big/product-small,,2021/8/pr_2021_8_6_10_21_5_633_00.jpg",
+            "UrlTemplate": "https://cdn.x-kom.pl/i/setup/images/prod/big/{SIZE},,2021/8/pr_2021_8_6_10_21_5_633_00.jpg"
+        },
+        "PromotionGain": {
+            "Value": 104.85,
+            "GainValue": "104,85",
+            "GainType": "Currency"
+        },
+        "BoxRarity": {
+            "Id": "Standard",
+            "Name": "Standardowa zniżka"
+        }
+    }
+]
