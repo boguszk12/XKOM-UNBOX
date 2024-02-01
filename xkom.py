@@ -53,7 +53,6 @@ class Identity:
 
         response = self.sess.post("https://mobileapi.x-kom.pl/api/v1/xkom/Token", data=payload, headers=headers)
         token_data = response.json()
-
         self.access_token = token_data['access_token']
 
     def createAccount(self):
@@ -87,7 +86,7 @@ class Identity:
             ],
             'ConsentOrigin': 'nw_xkom_registration',
         }
-
+        
         response = self.sess.post('https://mobileapi.x-kom.pl/api/v1/xkom/Account', headers=headers, json=json_data)
 
 
@@ -113,8 +112,9 @@ class Identity:
 
 
         token_data = response.json()
+        try:access_token = token_data['access_token']
+        except:raise ValueError(token_data)
 
-        access_token = token_data['access_token']
         refresh_token = token_data['refresh_token']
 
         headers = {
